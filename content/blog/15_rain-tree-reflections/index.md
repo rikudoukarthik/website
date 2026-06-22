@@ -2,8 +2,9 @@
 date: '2019-03-09'
 draft: false
 excerpt: >-
-  An old journal entry reflecting on numbers and other things. Posted to the
-  blog on 14 July 2025, with only minor proofing done to the original text.
+  An old journal entry reflecting on rain trees, numbers and other things.
+  Posted to the blog on 14 July 2025, with only minor proofing done to the
+  original text.
 layout: single
 title: Rain tree reflections
 slug: rain-tree-reflections
