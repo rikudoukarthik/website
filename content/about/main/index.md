@@ -5,7 +5,7 @@ use_featured: no
 number_categories: 10
 show_intro: yes
 intro: |-
-  I am Karthik Thrikkadeeri (alias Trick D. Eerie), a 26-year-old from Kerala, India. I am an ecologist, which means that I am interested in organisms and their relationships with each other and with the environment, and that I often spend my days thinking about various patterns in nature. It also means that I have a close relationship with numbers, often messy.
+  I am Karthik Thrikkadeeri (alias Trick D. Eerie), a 27-year-old from Kerala, India. I am an ecologist, which means that I am interested in organisms and their relationships with each other and with the environment, and that I often spend my days thinking about various patterns in nature. It also means that I have a close relationship with numbers, often messy.
 
   Although I don’t know a fair many languages (and am not necessarily passionate about learning many), I do love how languages work. Consequently, I tend to get excited over small things like ingenious wordplay and writing with multiple layers to it. Irrespective of this though, I believe that there is immense power that writing holds. Lately, I have started to take my own writing more seriously and to integrate it better into my life.
 
